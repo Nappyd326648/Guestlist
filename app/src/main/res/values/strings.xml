@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Guestlist</string>
+    <string name="enter_guest_name_and_click_save_to_add_to_the_list">Enter guest name and click save to add to the list</string>
+</resources>
